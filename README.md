@@ -36,6 +36,11 @@
 基于 `Pinocchio` 完成模型构建，结合 `robust WLS` 与 `Fourier excitation` 进行参数估计与激励设计，体现了从建模到结果分析的完整技术链路。  
 Repo: https://github.com/txk1228/arm-param-identification
 
+### 2) ACP-repo
+研究与工程实验代码仓库，用于沉淀阶段性算法实现、分析脚本与实验过程。  
+体现了以 `Python` 为核心的快速验证能力，以及对研究问题进行持续整理、复现与迭代的习惯。  
+Repo: https://github.com/txk1228/ACP-repo
+
 ### 2) xiaoke-portfolio
 个人作品集项目，用于系统展示控制、机器人参数辨识、科研探索与工程实践相关内容。  
 通过 Web 方式沉淀项目经历与技术输出，体现了将研究内容结构化表达、对外展示与工程化整理的能力。  
@@ -45,11 +50,6 @@ Repo: https://github.com/txk1228/xiaoke-portfolio
 自动化信息整理 / 推送方向的 Python 项目，体现了脚本化开发与功能落地能力。  
 项目展示了从需求实现到自动化执行的工程思路，可作为通用 Python 工程能力与工具型项目经验的补充。  
 Repo: https://github.com/txk1228/daily-news-bot
-
-### 4) ACP-repo
-研究与工程实验代码仓库，用于沉淀阶段性算法实现、分析脚本与实验过程。  
-体现了以 `Python` 为核心的快速验证能力，以及对研究问题进行持续整理、复现与迭代的习惯。  
-Repo: https://github.com/txk1228/ACP-repo
 
 ---
 
