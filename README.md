@@ -1,4 +1,4 @@
-# 仝小可（Jessie）
+# Xiaoke Tong（Jessie）
 
 控制与机器人参数辨识方向（Robotics & Control）。
 专注于机器人 `Robot Dynamics / Statics` 参数辨识（`System Identification`），关注从建模、激励设计到稳健估计与结果验证的完整流程。
@@ -54,4 +54,4 @@ Repo: https://github.com/txk1228/daily-news-bot
 ---
 
 ## 联系方式
-- Email: your.email@example.com
+- Email: 3238074253@qq.com
