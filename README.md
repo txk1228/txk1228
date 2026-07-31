@@ -5,7 +5,7 @@
 
 专注于机器人 `Robot Dynamics / Statics` 参数辨识（`System Identification`），关注从建模、激励设计到稳健估计与结果验证的完整流程。同时也做 AI 工具链开发与自动化工作流搭建。
 
-个人作品集：[txk1228.github.io/xiaoke-portfolio](https://txk1228.github.io/xiaoke-portfolio)
+个人作品集：[txk1228.github.io/xiaoke-portfolio](https://github.com/txk1228/xiaoke-portfolio)
 
 ---
 
