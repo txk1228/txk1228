@@ -1,6 +1,6 @@
 <!-- Header Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d7c6b,0e9aa7,0d7c6b&height=220&section=header&text=Xiaoke%20Tong%20%28Jessie%29&fontSize=42&fontAlignY=35&desc=Robotics%20%C2%B7%20Control%20%C2%B7%20Parameter%20ID&descAlignY=55&descSize=15&animation=fadeIn&fontColor=ffffff&descColor=bae6e8" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,5,10&height=220&section=header&text=Xiaoke%20Tong%20%28Jessie%29&fontSize=42&fontAlignY=35&desc=Robotics%20%C2%B7%20Control%20%C2%B7%20Parameter%20ID&descAlignY=55&descSize=15&animation=fadeIn&fontColor=ffffff&descColor=d4f4e8" />
 </p>
 
 <!-- Dynamic Tagline -->
@@ -112,5 +112,5 @@
 
 <!-- Footer Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d7c6b,0e9aa7,0d7c6b&height=100&section=footer&desc=Thanks%20for%20visiting%20~&descAlignY=60&descSize=14&descColor=99d6d8&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,5,10&height=100&section=footer&desc=Thanks%20for%20visiting%20~&descAlignY=60&descSize=14&descColor=a0e8d8&animation=fadeIn" />
 </p>
